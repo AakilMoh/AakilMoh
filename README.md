@@ -161,19 +161,6 @@ Phase Status:
 
 ---
 
-## `> github-stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AakilMoh&show_icons=true&theme=transparent&hide_border=true&title_color=0099ff&icon_color=0066ff&text_color=ccddff&bg_color=0a0a0f" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakilMoh&layout=compact&theme=transparent&hide_border=true&title_color=0099ff&text_color=ccddff&bg_color=0a0a0f" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AakilMoh&theme=transparent&hide_border=true&ring=0099ff&fire=00aaff&currStreakLabel=0077dd&sideLabels=0066ff&dates=667788&background=0a0a0f" width="60%"/>
-
-</div>
-
----
-
 ## `> connect`
 
 <div align="center">
