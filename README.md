@@ -96,8 +96,6 @@ Phase Status:
 
 **Stack:** `FastAPI` `asyncpg` `PostgreSQL` `Redis` `LangGraph` `ChromaDB` `Cloudinary` `WebSockets` `SQLAlchemy` `Pydantic` `slowapi`
 
-→ **Architecture.md** *(coming end of week with Phase 2)*
-
 ---
 
 ## `> git log --journey`
