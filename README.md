@@ -129,9 +129,9 @@ Phase Status:
 | Period | Role | Scope |
 |---|---|---|
 | 2022–2026 | BSc CS (Hons) · Allama Iqbal Scholar | Ran everything below this simultaneously |
-| Jul–Oct 2024 | BI Engineer · Voi Technologies (via MindBridge) | Fleet analytics, micromobility data pipelines · Sweden |
-| Oct 2024–May 2025 | BI Engineer · Careem (via MindBridge) | Ride-hailing intelligence, multi-region reporting · UAE/PK |
-| May–Aug 2025 | MIS Analyst · Revolut (via MindBridge) | Fintech data systems, compliance reporting · Poland |
+| Jul–Oct 2024 | Technical Support · Voi Technologies (via MindBridge) | Fleet analytics · Sweden |
+| Oct 2024–May 2025 | BI Analyst · Careem (via MindBridge) | Ride-hailing intelligence, multi-region reporting · UAE/PK |
+| May–Aug 2025 | BI Manager - Workforce · Revolut (via MindBridge)| Fintech data systems, reporting, HC Management · Poland |
 | Aug 2025–Apr 2026 | MIS Specialist · Cedar Financial | Debt recovery analytics, operational intelligence |
 | Apr 2026–Present | **Applied AI & LLMs Engineer · Cedar Financial** | Production AI systems, LLM pipelines, agentic workflows |
 
