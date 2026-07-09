@@ -16,7 +16,7 @@
 
 ---
 
-I build AI systems that solve real operational problems — combining software engineering, retrieval architectures, and thoughtful evaluation. My focus is on systems that remain reliable long after the prototype stage: hardened backends, measurable retrieval quality, and agents that fail gracefully rather than silently.
+I build AI systems that solve real operational problems that combines software engineering, retrieval architectures, and thoughtful evaluation. My focus is on systems that remain reliable long after the prototype stage: hardened backends, measurable retrieval quality, and agents that fail gracefully rather than silently.
 
 ---
 
